@@ -7,11 +7,11 @@ def main():
     return "Welcome!"
 
 @app.route('/route1')
-def hello():
+def route1():
     return 'Route1 Data'
 
 @app.route('/route2')
-def hello():
+def route2():
     return 'Route2 Data'
     
 if __name__ == "__main__":
