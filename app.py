@@ -14,5 +14,5 @@ def route1():
 def route2():
     return 'Route2 Data'
     
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8081)
+#if __name__ == "__main__":
+    #app.run(host="0.0.0.0", port=8081)
