@@ -5,4 +5,4 @@ build:
     build:
       - pip install -r requirements.txt
 run:
-  command: flask --app app run
+  command: python app.py
